@@ -8,4 +8,4 @@ Published via GitHub Pages: **https://vlaloban.github.io/keepick-legal/**
 - [Privacy Policy](https://vlaloban.github.io/keepick-legal/privacy.html)
 - [Terms of Use](https://vlaloban.github.io/keepick-legal/terms.html)
 
-Contact: vol.lobanov@gmail.com
+Contact: main@3vlbn.com

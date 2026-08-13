@@ -4,6 +4,7 @@ Legal site for [Keepick: Photo Cleaner](https://apps.apple.com/app/id6800228517)
 
 Published via GitHub Pages: **https://vlaloban.github.io/keepick-legal/**
 
+- [Support](https://vlaloban.github.io/keepick-legal/support.html) — the App Store "Support URL" for the app record
 - [Privacy Policy](https://vlaloban.github.io/keepick-legal/privacy.html)
 - [Terms of Use](https://vlaloban.github.io/keepick-legal/terms.html)
 
